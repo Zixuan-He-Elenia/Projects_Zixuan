@@ -1,0 +1,524 @@
+Language: 1. English; 0. Chinese. 
+(The Chinese version still requires basic English, where some of the contents, especially the support hero, are still mainly in English)
+Please input (preferably 1): 
+                Welcome to ENGG1340 Adventure
+Whether do you want to load the saved game?(1.yes 2.no, create a new game)
+Please input the num of heros
+Please input No. 1's name
+Please input No. 1's type (1. fighter 2. mage 3. support)
+.
+....
+.........
+.
+....
+.........
+.
+....
+.........
+Hero has been generated!	
+
+.
+....
+.........
+.
+....
+.........
+.
+....
+.........
+Coding adventure valley is generating!
+
+.
+....
+.........
+.
+....
+.........
+.
+....
+.........
+Coding adventure valley has been generated!
+
+[3J[H[2JYou can choose to save the game and leave every 5 rounds, there is(are) 4 round(s) till the next chance to save
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      4000      |     100      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |     10000      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 1 ltj's round
+Skill 1  ltj  mad dance
+         Make 200~1000 damage
+Skill 2  bone skewer, using 100 mp
+         50% chance to make 25% damage of the current HP of boss
+Skill 3  bola strike, using 50 mp
+         Making 300~2000 damage
+Skill 4  nomral hit
+         Making 500 damage
+
+Please input the skill you choose: Hero ltj used skill ---  bone skewer, using 100 mp
+UnLucky that you missed the strike
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      4000      |       0      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |     10000      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Boss 1340Fail's round
+Boss hit everybody, making 294 damage to all heros
+
+Please press Enter to continue
+You can choose to save the game and leave every 5 rounds, there is(are) 3 round(s) till the next chance to save
+
+  ---------------------------------------------------------------
+  |                 WARNING:  Random event!!!                   |
+  |    DEBUFF: ALL players fall asleep, players' rounds end.    |
+  ---------------------------------------------------------------
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      3706      |      20      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |     10000      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Boss 1340Fail's round
+Boss healed itself and recovered 795hp
+
+Please press Enter to continue.
+You can choose to save the game and leave every 5 rounds, there is(are) 2 round(s) till the next chance to save
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      3706      |      40      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |     10795      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 1 ltj's round
+Skill 1  ltj  mad dance
+         Make 200~1000 damage
+Skill 2  bone skewer, using 100 mp
+         50% chance to make 25% damage of the current HP of boss
+Skill 3  bola strike, using 50 mp
+         Making 300~2000 damage
+Skill 4  nomral hit
+         Making 500 damage
+
+Please input the skill you choose: Hero ltj used skill --- mad dance
+Made 684 damage to the boss
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      3706      |      40      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |     10111      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Boss 1340Fail's round
+Boss hit everybody, making 410 damage to all heros
+
+Please press Enter to continue
+You can choose to save the game and leave every 5 rounds, there is(are) 1 round(s) till the next chance to save
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      3296      |      60      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |     10111      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 1 ltj's round
+Skill 1  ltj  mad dance
+         Make 200~1000 damage
+Skill 2  bone skewer, using 100 mp
+         50% chance to make 25% damage of the current HP of boss
+Skill 3  bola strike, using 50 mp
+         Making 300~2000 damage
+Skill 4  nomral hit
+         Making 500 damage
+
+Please input the skill you choose: Hero ltj used skill ---  bola strike
+Made 1080 damage to the boss
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      3296      |      10      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |      9031      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Boss 1340Fail's round
+Boss hit everybody, making 363 damage to all heros
+
+Please press Enter to continue
+Whether do you want to be save the game and leave?(1.yes 2.no)
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      2933      |      30      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |      9031      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 1 ltj's round
+Skill 1  ltj  mad dance
+         Make 200~1000 damage
+Skill 2  bone skewer, using 100 mp
+         50% chance to make 25% damage of the current HP of boss
+Skill 3  bola strike, using 50 mp
+         Making 300~2000 damage
+Skill 4  nomral hit
+         Making 500 damage
+
+Please input the skill you choose: Hero ltj used skill --- mad dance
+Made 337 damage to the boss
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      2933      |      30      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |      8694      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Boss 1340Fail's round
+Boss hit everybody, making 424 damage to all heros
+
+Please press Enter to continue
+You can choose to save the game and leave every 5 rounds, there is(are) 4 round(s) till the next chance to save
+
+  ---------------------------------------------------------------
+  |                 WARNING:  Random event!!!                   |
+  |                BUFF: ALL players recover 500hp.             |
+  ---------------------------------------------------------------
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      3009      |      50      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |      8694      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 1 ltj's round
+Skill 1  ltj  mad dance
+         Make 200~1000 damage
+Skill 2  bone skewer, using 100 mp
+         50% chance to make 25% damage of the current HP of boss
+Skill 3  bola strike, using 50 mp
+         Making 300~2000 damage
+Skill 4  nomral hit
+         Making 500 damage
+
+Please input the skill you choose: Hero ltj used skill ---  bola strike
+Made 1786 damage to the boss
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      3009      |       0      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |      6908      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Boss 1340Fail's round
+Boss healed itself and recovered 422hp
+
+Please press Enter to continue
+You can choose to save the game and leave every 5 rounds, there is(are) 3 round(s) till the next chance to save
+
+  ---------------------------------------------------------------
+  |                 WARNING:  Random event!!!                   |
+  |    DEBUFF: ALL players fall asleep, players' rounds end.    |
+  ---------------------------------------------------------------
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      3009      |      20      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |      7330      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Boss 1340Fail's round
+Boss was attracted by the beauty of ltj touched him/her with a dirty hand, making 575 damage to that hero
+
+Please press Enter to continue.
+You can choose to save the game and leave every 5 rounds, there is(are) 2 round(s) till the next chance to save
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      2434      |      40      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |      7330      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 1 ltj's round
+Skill 1  ltj  mad dance
+         Make 200~1000 damage
+Skill 2  bone skewer, using 100 mp
+         50% chance to make 25% damage of the current HP of boss
+Skill 3  bola strike, using 50 mp
+         Making 300~2000 damage
+Skill 4  nomral hit
+         Making 500 damage
+
+Please input the skill you choose: Hero ltj used skill --- mad dance
+Made 235 damage to the boss
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      2434      |      40      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |      7095      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Boss 1340Fail's round
+Boss was attracted by the beauty of ltj touched him/her with a dirty hand, making 463 damage to that hero
+
+Please press Enter to continue
+You can choose to save the game and leave every 5 rounds, there is(are) 1 round(s) till the next chance to save
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      1971      |      60      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |      7095      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 1 ltj's round
+Skill 1  ltj  mad dance
+         Make 200~1000 damage
+Skill 2  bone skewer, using 100 mp
+         50% chance to make 25% damage of the current HP of boss
+Skill 3  bola strike, using 50 mp
+         Making 300~2000 damage
+Skill 4  nomral hit
+         Making 500 damage
+
+Please input the skill you choose: Hero ltj used skill ---  bola strike
+Made 1097 damage to the boss
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      1971      |      10      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |      5998      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Boss 1340Fail's round
+Boss hit everybody, making 709 damage to all heros
+
+Please press Enter to continue
+Whether do you want to be save the game and leave?(1.yes 2.no)
+  ---------------------------------------------------------------
+  |                 WARNING:  Random event!!!                   |
+  |                BUFF: ALL players recover 500hp.             |
+  ---------------------------------------------------------------
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      1762      |      30      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |      5998      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 1 ltj's round
+Skill 1  ltj  mad dance
+         Make 200~1000 damage
+Skill 2  bone skewer, using 100 mp
+         50% chance to make 25% damage of the current HP of boss
+Skill 3  bola strike, using 50 mp
+         Making 300~2000 damage
+Skill 4  nomral hit
+         Making 500 damage
+
+Please input the skill you choose: Hero ltj used skill --- mad dance
+Made 281 damage to the boss
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      1762      |      30      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |      5717      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Boss 1340Fail's round
+Boss was attracted by the beauty of ltj touched him/her with a dirty hand, making 600 damage to that hero
+
+Please press Enter to continue
+You can choose to save the game and leave every 5 rounds, there is(are) 4 round(s) till the next chance to save
+
+  ---------------------------------------------------------------
+  |                 WARNING:  Random event!!!                   |
+  |               BUFF: ALL players' mp become double           |
+  ---------------------------------------------------------------
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      1162      |     100      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |      5717      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 1 ltj's round
+Skill 1  ltj  mad dance
+         Make 200~1000 damage
+Skill 2  bone skewer, using 100 mp
+         50% chance to make 25% damage of the current HP of boss
+Skill 3  bola strike, using 50 mp
+         Making 300~2000 damage
+Skill 4  nomral hit
+         Making 500 damage
+
+Please input the skill you choose: Hero ltj used skill ---  bola strike
+Made 1896 damage to the boss
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      1162      |      50      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |      3821      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Boss 1340Fail's round
+Boss was attracted by the beauty of ltj touched him/her with a dirty hand, making 559 damage to that hero
+
+Please press Enter to continue
+You can choose to save the game and leave every 5 rounds, there is(are) 3 round(s) till the next chance to save
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |       603      |      70      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |      3821      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 1 ltj's round
+Skill 1  ltj  mad dance
+         Make 200~1000 damage
+Skill 2  bone skewer, using 100 mp
+         50% chance to make 25% damage of the current HP of boss
+Skill 3  bola strike, using 50 mp
+         Making 300~2000 damage
+Skill 4  nomral hit
+         Making 500 damage
+
+Please input the skill you choose: Hero ltj used skill ---  bola strike
+Made 1759 damage to the boss
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |       603      |      20      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |      2062      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Boss 1340Fail's round
+After writing too many codes, it decided to rest for 1 round.
+
+Please press Enter to continue
+You can choose to save the game and leave every 5 rounds, there is(are) 2 round(s) till the next chance to save
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |       603      |      40      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |      2062      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 1 ltj's round
+Skill 1  ltj  mad dance
+         Make 200~1000 damage
+Skill 2  bone skewer, using 100 mp
+         50% chance to make 25% damage of the current HP of boss
+Skill 3  bola strike, using 50 mp
+         Making 300~2000 damage
+Skill 4  nomral hit
+         Making 500 damage
+
+Please input the skill you choose: Hero ltj used skill --- mad dance
+Made 698 damage to the boss
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |       603      |      40      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |      1364      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Boss 1340Fail's round
+The tutor gave students one more assignment before the final exam. Boss upgraded!!! Damage and healing ability increased by 10% permanently.
+
+Please press Enter to continue
+You can choose to save the game and leave every 5 rounds, there is(are) 1 round(s) till the next chance to save
+
+  ---------------------------------------------------------------
+  |                 WARNING:  Random event!!!                   |
+  |               BUFF: ALL players' mp become double           |
+  ---------------------------------------------------------------
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |       603      |     120      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |      1364      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 1 ltj's round
+Skill 1  ltj  mad dance
+         Make 200~1000 damage
+Skill 2  bone skewer, using 100 mp
+         50% chance to make 25% damage of the current HP of boss
+Skill 3  bola strike, using 50 mp
+         Making 300~2000 damage
+Skill 4  nomral hit
+         Making 500 damage
+
+Please input the skill you choose: Hero ltj used skill ---  bola strike
+Made 1678 damage to the boss
+
+Player victory!
