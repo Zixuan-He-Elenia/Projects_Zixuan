@@ -1,0 +1,398 @@
+Language: 1. English; 0. Chinese. 
+(The Chinese version still requires basic English, where some of the contents, especially the support hero, are still mainly in English)
+Please input (preferably 1): 
+                Welcome to ENGG1340 Adventure
+Whether do you want to load the saved game?(1.yes 2.no, create a new game)
+.
+....
+.........
+.
+....
+.........
+.
+....
+.........
+Coding adventure valley is generating!
+
+.
+....
+.........
+.
+....
+.........
+.
+....
+.........
+Coding adventure valley has been generated!
+
+[3J[H[2JYou can choose to save the game and leave every 5 rounds, there is(are) 4 round(s) till the next chance to save
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      4474      |     132      |       1      |
+ |      2       |       hzx      |      4018      |      67      |       1      |
+ |      3       |       djj      |      5474      |      92      |       1      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |     25266      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 1 ltj's round
+Skill 1  ltj  mad dance
+         Make 200~1000 damage
+Skill 2  bone skewer, using 100 mp
+         50% chance to make 25% damage of the current HP of boss
+Skill 3  bola strike, using 50 mp
+         Making 300~2000 damage
+Skill 4  nomral hit
+         Making 500 damage
+
+Please input the skill you choose: Hero ltj used skill ---  bone skewer, using 100 mp
+Made 6316 damage to the boss
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      4474      |      32      |       1      |
+ |      2       |       hzx      |      4018      |      67      |       1      |
+ |      3       |       djj      |      5474      |      92      |       1      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |     18950      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 2 hzx's round
+Skill 1  baleful strike, using 50 mp
+         Make 100~1500 damage
+Skill 2  normal hit
+         Make 200~350 damage
+Skill 3  meditation
+         Recover 20~50 mp
+Skill 4  illumination , using 60 mp
+         Recover 30~70 mp for all heros
+
+Please input the skill you choose: Hero hzx used skill ---  illumination , using 60 mp
+Every hero recovered 30 mp
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      4474      |      62      |       1      |
+ |      2       |       hzx      |      4018      |      37      |       1      |
+ |      3       |       djj      |      5474      |     122      |       1      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |     18950      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 3 djj's round
+Skill 1  drunken butterfly, using 25mp
+         Recover 500 hp
+Skill 2  double flowers' world, using 50mp
+         Recover 200-500 hp for all players
+Skill 3  two tigers love dancing, using 40mp
+         Fend off boss's next hit
+Skill 4  little rabit pulls carrots, using 150mp
+         All players could fend off boss's next hit
+Skill 5  nomarl hit
+         Make 200~400 damage
+
+Please input the skill you choose: Hero djj used skill ---double flowers' word, using 50 mp
+recover 242hp for all players
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      4716      |      62      |       1      |
+ |      2       |       hzx      |      4260      |      37      |       1      |
+ |      3       |       djj      |      5716      |      72      |       1      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |     18950      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Boss 1340Fail's round
+Boss healed itself and recovered 2933hp
+
+Please press Enter to continue
+You can choose to save the game and leave every 5 rounds, there is(are) 3 round(s) till the next chance to save
+
+  ---------------------------------------------------------------
+  |                 WARNING:  Random event!!!                   |
+  |               BUFF: ALL players' mp become double           |
+  ---------------------------------------------------------------
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      4716      |     164      |       1      |
+ |      2       |       hzx      |      4260      |      94      |       1      |
+ |      3       |       djj      |      5716      |     184      |       1      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |     21883      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 1 ltj's round
+Skill 1  ltj  mad dance
+         Make 200~1000 damage
+Skill 2  bone skewer, using 100 mp
+         50% chance to make 25% damage of the current HP of boss
+Skill 3  bola strike, using 50 mp
+         Making 300~2000 damage
+Skill 4  nomral hit
+         Making 500 damage
+
+Please input the skill you choose: Hero ltj used skill ---  bone skewer, using 100 mp
+UnLucky that you missed the strike
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      4716      |      64      |       1      |
+ |      2       |       hzx      |      4260      |      94      |       1      |
+ |      3       |       djj      |      5716      |     184      |       1      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |     21883      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 2 hzx's round
+Skill 1  baleful strike, using 50 mp
+         Make 100~1500 damage
+Skill 2  normal hit
+         Make 200~350 damage
+Skill 3  meditation
+         Recover 20~50 mp
+Skill 4  illumination , using 60 mp
+         Recover 30~70 mp for all heros
+
+Please input the skill you choose: Hero hzx used skill ---  illumination , using 60 mp
+Every hero recovered 68 mp
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      4716      |     132      |       1      |
+ |      2       |       hzx      |      4260      |     102      |       1      |
+ |      3       |       djj      |      5716      |     252      |       1      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |     21883      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 3 djj's round
+Skill 1  drunken butterfly, using 25mp
+         Recover 500 hp
+Skill 2  double flowers' world, using 50mp
+         Recover 200-500 hp for all players
+Skill 3  two tigers love dancing, using 40mp
+         Fend off boss's next hit
+Skill 4  little rabit pulls carrots, using 150mp
+         All players could fend off boss's next hit
+Skill 5  nomarl hit
+         Make 200~400 damage
+
+Please input the skill you choose: Hero djj used skill ---normal hit
+Made 361 damage to the boss
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      4716      |     132      |       1      |
+ |      2       |       hzx      |      4260      |     102      |       1      |
+ |      3       |       djj      |      5716      |     252      |       1      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |     21522      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Boss 1340Fail's round
+Boss was attracted by the beauty of djj touched him/her with a dirty hand, making 605 damage to that hero
+But djj fended off this hit
+
+Please press Enter to continue
+You can choose to save the game and leave every 5 rounds, there is(are) 2 round(s) till the next chance to save
+
+  ---------------------------------------------------------------
+  |                 WARNING:  Random event!!!                   |
+  |                DEBUFF: ALL players lose 50% mp              |
+  ---------------------------------------------------------------
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      4716      |      76      |       1      |
+ |      2       |       hzx      |      4260      |      56      |       1      |
+ |      3       |       djj      |      5716      |     136      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |     21522      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 1 ltj's round
+Skill 1  ltj  mad dance
+         Make 200~1000 damage
+Skill 2  bone skewer, using 100 mp
+         50% chance to make 25% damage of the current HP of boss
+Skill 3  bola strike, using 50 mp
+         Making 300~2000 damage
+Skill 4  nomral hit
+         Making 500 damage
+
+Please input the skill you choose: Hero ltj used skill --- mad dance
+Made 990 damage to the boss
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      4716      |      76      |       1      |
+ |      2       |       hzx      |      4260      |      56      |       1      |
+ |      3       |       djj      |      5716      |     136      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |     20532      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 2 hzx's round
+Skill 1  baleful strike, using 50 mp
+         Make 100~1500 damage
+Skill 2  normal hit
+         Make 200~350 damage
+Skill 3  meditation
+         Recover 20~50 mp
+Skill 4  illumination , using 60 mp
+         Recover 30~70 mp for all heros
+
+Please input the skill you choose: Hero hzx used skill ---  meditation
+hzx recovered 41 mp
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      4716      |      76      |       1      |
+ |      2       |       hzx      |      4260      |      97      |       1      |
+ |      3       |       djj      |      5716      |     136      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |     20532      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 3 djj's round
+Skill 1  drunken butterfly, using 25mp
+         Recover 500 hp
+Skill 2  double flowers' world, using 50mp
+         Recover 200-500 hp for all players
+Skill 3  two tigers love dancing, using 40mp
+         Fend off boss's next hit
+Skill 4  little rabit pulls carrots, using 150mp
+         All players could fend off boss's next hit
+Skill 5  nomarl hit
+         Make 200~400 damage
+
+Please input the skill you choose: Hero djj used skill ---double flowers' word, using 50 mp
+recover 428hp for all players
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      5144      |      76      |       1      |
+ |      2       |       hzx      |      4688      |      97      |       1      |
+ |      3       |       djj      |      6144      |      86      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |     20532      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Boss 1340Fail's round
+Boss was attracted by the beauty of ltj touched him/her with a dirty hand, making 709 damage to that hero
+But ltj fended off this hit
+
+Please press Enter to continue
+You can choose to save the game and leave every 5 rounds, there is(are) 1 round(s) till the next chance to save
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      5144      |      96      |       0      |
+ |      2       |       hzx      |      4688      |     107      |       1      |
+ |      3       |       djj      |      6144      |     106      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |     20532      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 1 ltj's round
+Skill 1  ltj  mad dance
+         Make 200~1000 damage
+Skill 2  bone skewer, using 100 mp
+         50% chance to make 25% damage of the current HP of boss
+Skill 3  bola strike, using 50 mp
+         Making 300~2000 damage
+Skill 4  nomral hit
+         Making 500 damage
+
+Please input the skill you choose: Hero ltj used skill --- mad dance
+Made 831 damage to the boss
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      5144      |      96      |       0      |
+ |      2       |       hzx      |      4688      |     107      |       1      |
+ |      3       |       djj      |      6144      |     106      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |     19701      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 2 hzx's round
+Skill 1  baleful strike, using 50 mp
+         Make 100~1500 damage
+Skill 2  normal hit
+         Make 200~350 damage
+Skill 3  meditation
+         Recover 20~50 mp
+Skill 4  illumination , using 60 mp
+         Recover 30~70 mp for all heros
+
+Please input the skill you choose: Hero hzx used skill ---  illumination , using 60 mp
+Every hero recovered 30 mp
+
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      5144      |     126      |       0      |
+ |      2       |       hzx      |      4688      |      77      |       1      |
+ |      3       |       djj      |      6144      |     136      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |     19701      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Player 3 djj's round
+Skill 1  drunken butterfly, using 25mp
+         Recover 500 hp
+Skill 2  double flowers' world, using 50mp
+         Recover 200-500 hp for all players
+Skill 3  two tigers love dancing, using 40mp
+         Fend off boss's next hit
+Skill 4  little rabit pulls carrots, using 150mp
+         All players could fend off boss's next hit
+Skill 5  nomarl hit
+         Make 200~400 damage
+
+Please input the skill you choose: Hero djj used skill ---double flowers' word, using 50 mp
+recover 248hp for all players
+                          Battle Panel
+  -----------------------------------------------------------------------------
+ |    Hero      |      Name      |       Hp       |      Mp      |    Shield    | 
+  -----------------------------------------------------------------------------
+ |      1       |       ltj      |      5392      |     126      |       0      |
+ |      2       |       hzx      |      4936      |      77      |       1      |
+ |      3       |       djj      |      6392      |      86      |       0      |
+  -----------------------------------------------------------------------------
+ |     Boss     |  1340Fail      |     19701      |       -      |       -      |
+  -----------------------------------------------------------------------------
+
+Boss 1340Fail's round
+After writing too many codes, it decided to rest for 1 round.
+
+Please press Enter to continue
+Whether do you want to be save the game and leave?(1.yes 2.no)
